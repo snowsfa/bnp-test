@@ -1,0 +1,5 @@
+C:\Users\fneves\source\repos\BnpParibas.Infrastructure\obj\Debug\net6.0\BnpParibas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fneves\source\repos\BnpParibas.Infrastructure\obj\Debug\net6.0\BnpParibas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fneves\source\repos\BnpParibas.Infrastructure\obj\Debug\net6.0\BnpParibas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fneves\source\repos\BnpParibas.Infrastructure\obj\Debug\net6.0\BnpParibas.Infrastructure.AssemblyInfo.cs
+C:\Users\fneves\source\repos\BnpParibas.Infrastructure\obj\Debug\net6.0\BnpParibas.Infrastructure.csproj.CoreCompileInputs.cache
