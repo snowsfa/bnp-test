@@ -15,6 +15,7 @@ namespace BnpParibas.Infrastructure
         public void Add(Security security)
         {
             _dbContext.Add(security);
+            _dbContext.SaveChanges();
         }
 
         public Security GetByIsin(string isin)
@@ -29,6 +30,7 @@ namespace BnpParibas.Infrastructure
         public void Update(Security security)
         {
             _dbContext.Update(security);
+            _dbContext.SaveChanges();
         }
     }
 }
