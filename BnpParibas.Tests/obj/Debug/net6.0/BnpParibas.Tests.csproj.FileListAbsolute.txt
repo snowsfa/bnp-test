@@ -1,6 +1,0 @@
-C:\Users\fneves\source\repos\BnpParibas.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\fneves\source\repos\BnpParibas.Tests\obj\Debug\net6.0\BnpParibas.Tests.csproj.AssemblyReference.cache
-C:\Users\fneves\source\repos\BnpParibas.Tests\obj\Debug\net6.0\BnpParibas.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fneves\source\repos\BnpParibas.Tests\obj\Debug\net6.0\BnpParibas.Tests.AssemblyInfoInputs.cache
-C:\Users\fneves\source\repos\BnpParibas.Tests\obj\Debug\net6.0\BnpParibas.Tests.AssemblyInfo.cs
-C:\Users\fneves\source\repos\BnpParibas.Tests\obj\Debug\net6.0\BnpParibas.Tests.csproj.CoreCompileInputs.cache
